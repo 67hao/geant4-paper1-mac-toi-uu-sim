@@ -1,0 +1,10 @@
+build/
+*.root
+*.exe
+*.obj
+*.log
+*.csv
+!manifest.csv
+*.xlsx
+02_Flux_Data/
+03_Simulation_Outputs/
