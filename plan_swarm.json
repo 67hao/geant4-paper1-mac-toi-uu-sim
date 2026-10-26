@@ -1,5 +1,5 @@
 {
-  "haohue27": {
+  "fewhourtorelax": {
     "1": [
       {
         "job_name": "S1_D242p508724_E8000",
@@ -11,54 +11,6 @@
         "macro_file": "run_S1_D242p508724_E8000.mac",
         "csv_filename": "S1_D242p508724_E8000.csv",
         "root_filename": "hist_S1_D242p508724_E8000.root"
-      }
-    ],
-    "2": [
-      {
-        "job_name": "S4_D176p238115_E6000",
-        "sample": "S4",
-        "thickness_mm": 176.238115,
-        "energy_kev": 6000.0,
-        "d_str": "176p238115",
-        "e_str": "6000",
-        "macro_file": "run_S4_D176p238115_E6000.mac",
-        "csv_filename": "S4_D176p238115_E6000.csv",
-        "root_filename": "hist_S4_D176p238115_E6000.root"
-      }
-    ],
-    "3": [
-      {
-        "job_name": "S6_D150p765152_E10000",
-        "sample": "S6",
-        "thickness_mm": 150.765152,
-        "energy_kev": 10000.0,
-        "d_str": "150p765152",
-        "e_str": "10000",
-        "macro_file": "run_S6_D150p765152_E10000.mac",
-        "csv_filename": "S6_D150p765152_E10000.csv",
-        "root_filename": "hist_S6_D150p765152_E10000.root"
-      }
-    ],
-    "4": [],
-    "5": [],
-    "6": [],
-    "7": [],
-    "8": [],
-    "9": [],
-    "10": []
-  },
-  "Bethwl": {
-    "1": [
-      {
-        "job_name": "S1_D247p938023_E10000",
-        "sample": "S1",
-        "thickness_mm": 247.938023,
-        "energy_kev": 10000.0,
-        "d_str": "247p938023",
-        "e_str": "10000",
-        "macro_file": "run_S1_D247p938023_E10000.mac",
-        "csv_filename": "S1_D247p938023_E10000.csv",
-        "root_filename": "hist_S1_D247p938023_E10000.root"
       }
     ],
     "2": [
@@ -95,18 +47,18 @@
     "9": [],
     "10": []
   },
-  "htvnhe": {
+  "vuicho": {
     "1": [
       {
-        "job_name": "S1_D247p938023_E15000",
+        "job_name": "S1_D247p938023_E10000",
         "sample": "S1",
         "thickness_mm": 247.938023,
-        "energy_kev": 15000.0,
+        "energy_kev": 10000.0,
         "d_str": "247p938023",
-        "e_str": "15000",
-        "macro_file": "run_S1_D247p938023_E15000.mac",
-        "csv_filename": "S1_D247p938023_E15000.csv",
-        "root_filename": "hist_S1_D247p938023_E15000.root"
+        "e_str": "10000",
+        "macro_file": "run_S1_D247p938023_E10000.mac",
+        "csv_filename": "S1_D247p938023_E10000.csv",
+        "root_filename": "hist_S1_D247p938023_E10000.root"
       }
     ],
     "2": [
@@ -143,18 +95,18 @@
     "9": [],
     "10": []
   },
-  "fewhourtorelax": {
+  "haoidlemystic1": {
     "1": [
       {
-        "job_name": "S2_D211p871028_E15000",
-        "sample": "S2",
-        "thickness_mm": 211.871028,
+        "job_name": "S1_D247p938023_E15000",
+        "sample": "S1",
+        "thickness_mm": 247.938023,
         "energy_kev": 15000.0,
-        "d_str": "211p871028",
+        "d_str": "247p938023",
         "e_str": "15000",
-        "macro_file": "run_S2_D211p871028_E15000.mac",
-        "csv_filename": "S2_D211p871028_E15000.csv",
-        "root_filename": "hist_S2_D211p871028_E15000.root"
+        "macro_file": "run_S1_D247p938023_E15000.mac",
+        "csv_filename": "S1_D247p938023_E15000.csv",
+        "root_filename": "hist_S1_D247p938023_E15000.root"
       }
     ],
     "2": [
@@ -191,18 +143,18 @@
     "9": [],
     "10": []
   },
-  "idlemystich": {
+  "haohue27": {
     "1": [
       {
-        "job_name": "S2_D215p523977_E8000",
+        "job_name": "S2_D211p871028_E15000",
         "sample": "S2",
-        "thickness_mm": 215.523977,
-        "energy_kev": 8000.0,
-        "d_str": "215p523977",
-        "e_str": "8000",
-        "macro_file": "run_S2_D215p523977_E8000.mac",
-        "csv_filename": "S2_D215p523977_E8000.csv",
-        "root_filename": "hist_S2_D215p523977_E8000.root"
+        "thickness_mm": 211.871028,
+        "energy_kev": 15000.0,
+        "d_str": "211p871028",
+        "e_str": "15000",
+        "macro_file": "run_S2_D211p871028_E15000.mac",
+        "csv_filename": "S2_D211p871028_E15000.csv",
+        "root_filename": "hist_S2_D211p871028_E15000.root"
       }
     ],
     "2": [
@@ -227,18 +179,18 @@
     "9": [],
     "10": []
   },
-  "67hao": {
+  "coredaohaojack": {
     "1": [
       {
-        "job_name": "S2_D217p020671_E10000",
+        "job_name": "S2_D215p523977_E8000",
         "sample": "S2",
-        "thickness_mm": 217.020671,
-        "energy_kev": 10000.0,
-        "d_str": "217p020671",
-        "e_str": "10000",
-        "macro_file": "run_S2_D217p020671_E10000.mac",
-        "csv_filename": "S2_D217p020671_E10000.csv",
-        "root_filename": "hist_S2_D217p020671_E10000.root"
+        "thickness_mm": 215.523977,
+        "energy_kev": 8000.0,
+        "d_str": "215p523977",
+        "e_str": "8000",
+        "macro_file": "run_S2_D215p523977_E8000.mac",
+        "csv_filename": "S2_D215p523977_E8000.csv",
+        "root_filename": "hist_S2_D215p523977_E8000.root"
       }
     ],
     "2": [
@@ -263,18 +215,18 @@
     "9": [],
     "10": []
   },
-  "haoidlemystic1": {
+  "htvnhe": {
     "1": [
       {
-        "job_name": "S3_D187p297748_E15000",
-        "sample": "S3",
-        "thickness_mm": 187.297748,
-        "energy_kev": 15000.0,
-        "d_str": "187p297748",
-        "e_str": "15000",
-        "macro_file": "run_S3_D187p297748_E15000.mac",
-        "csv_filename": "S3_D187p297748_E15000.csv",
-        "root_filename": "hist_S3_D187p297748_E15000.root"
+        "job_name": "S2_D217p020671_E10000",
+        "sample": "S2",
+        "thickness_mm": 217.020671,
+        "energy_kev": 10000.0,
+        "d_str": "217p020671",
+        "e_str": "10000",
+        "macro_file": "run_S2_D217p020671_E10000.mac",
+        "csv_filename": "S2_D217p020671_E10000.csv",
+        "root_filename": "hist_S2_D217p020671_E10000.root"
       }
     ],
     "2": [
@@ -299,18 +251,18 @@
     "9": [],
     "10": []
   },
-  "vuicho": {
+  "idlemystich": {
     "1": [
       {
-        "job_name": "S3_D190p934597_E6000",
+        "job_name": "S3_D187p297748_E15000",
         "sample": "S3",
-        "thickness_mm": 190.934597,
-        "energy_kev": 6000.0,
-        "d_str": "190p934597",
-        "e_str": "6000",
-        "macro_file": "run_S3_D190p934597_E6000.mac",
-        "csv_filename": "S3_D190p934597_E6000.csv",
-        "root_filename": "hist_S3_D190p934597_E6000.root"
+        "thickness_mm": 187.297748,
+        "energy_kev": 15000.0,
+        "d_str": "187p297748",
+        "e_str": "15000",
+        "macro_file": "run_S3_D187p297748_E15000.mac",
+        "csv_filename": "S3_D187p297748_E15000.csv",
+        "root_filename": "hist_S3_D187p297748_E15000.root"
       }
     ],
     "2": [
@@ -335,18 +287,18 @@
     "9": [],
     "10": []
   },
-  "coredaohaojack": {
+  "67hao": {
     "1": [
       {
-        "job_name": "S3_D194p074969_E10000",
+        "job_name": "S3_D190p934597_E6000",
         "sample": "S3",
-        "thickness_mm": 194.074969,
-        "energy_kev": 10000.0,
-        "d_str": "194p074969",
-        "e_str": "10000",
-        "macro_file": "run_S3_D194p074969_E10000.mac",
-        "csv_filename": "S3_D194p074969_E10000.csv",
-        "root_filename": "hist_S3_D194p074969_E10000.root"
+        "thickness_mm": 190.934597,
+        "energy_kev": 6000.0,
+        "d_str": "190p934597",
+        "e_str": "6000",
+        "macro_file": "run_S3_D190p934597_E6000.mac",
+        "csv_filename": "S3_D190p934597_E6000.csv",
+        "root_filename": "hist_S3_D190p934597_E6000.root"
       }
     ],
     "2": [
@@ -371,18 +323,18 @@
     "9": [],
     "10": []
   },
-  "laolaolaoma09": {
+  "Bethwl": {
     "1": [
       {
-        "job_name": "S3_D194p71548_E8000",
+        "job_name": "S3_D194p074969_E10000",
         "sample": "S3",
-        "thickness_mm": 194.71548,
-        "energy_kev": 8000.0,
-        "d_str": "194p71548",
-        "e_str": "8000",
-        "macro_file": "run_S3_D194p71548_E8000.mac",
-        "csv_filename": "S3_D194p71548_E8000.csv",
-        "root_filename": "hist_S3_D194p71548_E8000.root"
+        "thickness_mm": 194.074969,
+        "energy_kev": 10000.0,
+        "d_str": "194p074969",
+        "e_str": "10000",
+        "macro_file": "run_S3_D194p074969_E10000.mac",
+        "csv_filename": "S3_D194p074969_E10000.csv",
+        "root_filename": "hist_S3_D194p074969_E10000.root"
       }
     ],
     "2": [
@@ -407,18 +359,18 @@
     "9": [],
     "10": []
   },
-  "zotactothesun": {
+  "haoidle4zk": {
     "1": [
       {
-        "job_name": "S4_D153p061595_E3000",
-        "sample": "S4",
-        "thickness_mm": 153.061595,
-        "energy_kev": 3000.0,
-        "d_str": "153p061595",
-        "e_str": "3000",
-        "macro_file": "run_S4_D153p061595_E3000.mac",
-        "csv_filename": "S4_D153p061595_E3000.csv",
-        "root_filename": "hist_S4_D153p061595_E3000.root"
+        "job_name": "S3_D194p71548_E8000",
+        "sample": "S3",
+        "thickness_mm": 194.71548,
+        "energy_kev": 8000.0,
+        "d_str": "194p71548",
+        "e_str": "8000",
+        "macro_file": "run_S3_D194p71548_E8000.mac",
+        "csv_filename": "S3_D194p71548_E8000.csv",
+        "root_filename": "hist_S3_D194p71548_E8000.root"
       }
     ],
     "2": [
@@ -443,7 +395,7 @@
     "9": [],
     "10": []
   },
-  "haoidle4zk": {
+  "zotactothesun": {
     "1": [
       {
         "job_name": "S4_D168p275549_E15000",
@@ -468,6 +420,42 @@
         "macro_file": "run_S6_D147p248764_E4000.mac",
         "csv_filename": "S6_D147p248764_E4000.csv",
         "root_filename": "hist_S6_D147p248764_E4000.root"
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "laolaolaoma09": {
+    "1": [
+      {
+        "job_name": "S4_D176p238115_E6000",
+        "sample": "S4",
+        "thickness_mm": 176.238115,
+        "energy_kev": 6000.0,
+        "d_str": "176p238115",
+        "e_str": "6000",
+        "macro_file": "run_S4_D176p238115_E6000.mac",
+        "csv_filename": "S4_D176p238115_E6000.csv",
+        "root_filename": "hist_S4_D176p238115_E6000.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S6_D150p765152_E10000",
+        "sample": "S6",
+        "thickness_mm": 150.765152,
+        "energy_kev": 10000.0,
+        "d_str": "150p765152",
+        "e_str": "10000",
+        "macro_file": "run_S6_D150p765152_E10000.mac",
+        "csv_filename": "S6_D150p765152_E10000.csv",
+        "root_filename": "hist_S6_D150p765152_E10000.root"
       }
     ],
     "3": [],
