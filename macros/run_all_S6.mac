@@ -1,0 +1,5 @@
+/control/verbose 2
+/control/execute run_S6_D64p834821_E662.mac
+/control/execute run_S6_D91p996951_E1173.mac
+/control/execute run_S6_D98p838211_E1337.mac
+/control/execute run_S6_D130p170943_E2506.mac

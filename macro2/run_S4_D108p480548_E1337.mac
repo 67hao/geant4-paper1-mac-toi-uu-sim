@@ -1,0 +1,6 @@
+/DetectorConstruction/Sample_Material S4
+/DetectorConstruction/Sample_Thickness 108.480548217
+/DetectorConstruction/update
+/gun/energy 1337.000000 keV
+/analysis/setFileName hist_S4_D108p480548_E1337
+/run/beamOn 1000000
